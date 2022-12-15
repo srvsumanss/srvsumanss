@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Uniqlo](https://www.uniqlo.com)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **React**
 
