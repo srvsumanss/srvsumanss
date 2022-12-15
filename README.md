@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **srvsumanss@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/kmoK3](shorturl.at/kmoK3)
+- 📄 Know about my experiences https://portfolio-srvsuman.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
